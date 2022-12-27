@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on Freelancer company 
 - 📫 How to reach me info@dharmeshsharma.com
 
+# ⚡ Favorite languages and tools
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh-it&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="dharmesh-it" />
+
+# :octocat: Github contributions
 
 ![Dharmesh-It's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmesh-it&show_icons=true&theme=radical)
 <!---
