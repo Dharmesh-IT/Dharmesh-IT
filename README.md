@@ -6,7 +6,7 @@
 
 # ⚡ Favorite languages and tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh-it&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="dharmesh-it" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh-it&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="dharmesh-it" />
 
 # :octocat: Github contributions
 
